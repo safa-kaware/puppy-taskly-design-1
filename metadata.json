@@ -1,0 +1,6 @@
+{
+  "name": "Pawuahas",
+  "description": "Interactive six-week positive reinforcement puppy training program in Edmonton, Alberta, Canada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
